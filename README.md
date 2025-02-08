@@ -1,5 +1,3 @@
-Here's your adapted **README** for the **DocuText Converter** tool, optimized for clarity, structure, and usability:  
-
 ---
 
 # 📄 **DocuText Converter** 🖥️  
